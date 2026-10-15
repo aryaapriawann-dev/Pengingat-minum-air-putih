@@ -1,0 +1,6 @@
+{
+  "name": "HidroSantai - Pengingat Minum Air Putih",
+  "description": "Aplikasi pengingat minum air putih dengan notifikasi otomatis cerdas, pelacak hidrasi harian, dan ringkasan kesehatan.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
